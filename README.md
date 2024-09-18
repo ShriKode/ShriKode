@@ -1,4 +1,4 @@
-Hi, I’m Shriyanshu Kode, a computer science student in my senior year at Georgia Tech, specializing in intelligence and devices. I'm currently looking for software engineering opportunities, and some of my interests include machine learning, cybersecurity, distributed systems, and robotics.
+Hi, I’m Shriyanshu Kode, a master's student at UC Berkeley, in the Electrical Engineering & Computer Sciences department. I'm currently looking for software engineering opportunities, and some of my interests include machine learning and cybersecurity.
 
 
 <!---
